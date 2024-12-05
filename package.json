@@ -13,6 +13,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "vite": "^5.3.10",
     "express": "^4.21.1",
     "mysql2": "^3.11.4"
